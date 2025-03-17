@@ -64,9 +64,8 @@ Tech Stack: **HTML, CSS**
 ![Nishant1723's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishant1723&custom_title=Nishant1723's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nishant1723&theme=radical&hide_border=true)
+![](https://streak-stats.demolab.com/?user=Nishant1723&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1723&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/nishant-ghorpade-74a542244/](https://www.linkedin.com/in/nishant-ghorpade-74a542244/)
