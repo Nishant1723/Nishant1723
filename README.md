@@ -1,47 +1,63 @@
-# Hi there, I'm Nishant! 👋
+# Hi there! 👋 I'm Nishant Ghorpade
 
-![Profile Banner](github-header-image.png)  
+Welcome to my GitHub profile! I'm a passionate **Software Developer** and **Web Developer** with expertise in building dynamic and responsive applications. 🚀
 
 ## 🚀 About Me
+- 🎓 Pursuing **Bachelor of Engineering (BE) in Information Technology** at **Savitribai Phule Pune University**
+- 💻 Proficient in **Java, JavaScript, React.js, Node.js, Express.js**
+- 🌐 Experienced with **MongoDB, MySQL, and RESTful APIs**
+- 📌 Interested in **Software Development, Cloud Services, and Web Development**
+- 🎯 Currently exploring **React and Full-Stack Development**
 
-I'm a passionate developer interested in **Smart Computing**, **Web Development**, and **Deep Learning**. I enjoy building intelligent applications and contributing to open-source projects.
+## 🔥 Tech Stack
 
-- 🔭 Currently working on a **Smart E-learning Platform**
-- 🌱 Learning **Blockchain**, **Social Computing**, and **Advanced Deep Learning Frameworks**
-- 👨‍💻 Tech stack: **React, Redux, Express.js, MongoDB, Python, TensorFlow**
-- 💬 Ask me about **SQL, React, Deep Learning, and Web Development**
-- ⚡ Fun fact: I love exploring new technologies and experimenting with AI-driven solutions!
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📌 Featured Projects
 
-### 🎓 Smart E-learning Platform  
-A smart learning platform with **user authentication, course management, attendance tracking, quizzes, and a chatbot**. 
-**Tech Stack:** `React.js` `Redux` `Express.js` `MongoDB` `TensorFlow`
+### 🌍 [VacationVista (Website)](https://vacationvista.onrender.com/listings)
+Tech Stack: **Node.js, Express.js, MongoDB, HTML, CSS, JavaScript**
+- Developed a responsive travel website with RESTful API integration.
+- Implemented **CRUD operations** following the **MVC architecture**.
 
-🔗 [GitHub Repository](https://github.com/Nishant1723/smart-elearning)
+### 🎮 [Simon Says Game](https://nishant1723.github.io/Simon-Says/)
+Tech Stack: **HTML, CSS, JavaScript**
+- Built a classic "Simon Says" game to enhance quick thinking skills.
+- Designed a responsive game board with interactive gameplay.
 
-### 🍽 Swiggy API Implementation  
-Built a food delivery app using **Swiggy API, React, and Redux**, allowing users to browse restaurants and menus.
+### 🍔 [Swiggy API Implementation](https://github.com/Nishant1723/React-Project)
+Tech Stack: **React, Redux**
+- Integrated **Swiggy API** for real-time restaurant data and menu listings.
+- Implemented **search and filtering functionalities** for better user experience.
 
-🔗 [GitHub Repository](https://github.com/Nishant1723/swiggy-api)
+### 🎵 [Spotify Landing Page](https://nishant1723.github.io/Spotify-LandingPage/)
+Tech Stack: **HTML, CSS**
+- Developed a **Spotify clone** with an interactive UI and seamless playback controls.
 
-## 🛠️ Tech Stack
+## 💼 Experience
 
-**Frontend:** React.js, Redux, HTML, CSS, JavaScript  
-**Backend:** Node.js, Express.js, MongoDB, Mongoose  
-**Machine Learning:** TensorFlow, Deep Learning  
-**Database:** SQL, MongoDB  
-**Other:** Git, Jupyter Notebook, Docker
+### CodSoft (December 2023 – January 2024)
+**Software Developer - Java Projects** | Pune, Maharashtra, India
+- Gained hands-on experience in **Java development** and **industry practices**.
+- Engaged in **community discussions** and **code reviews**.
+- Improved project reliability by solving complex issues.
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1723&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nishant1723&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1723&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/nishant-ghorpade-74a542244/](https://www.linkedin.com/in/nishant-ghorpade-74a542244/)
+- **GitHub:** [github.com/Nishant1723](https://github.com/Nishant1723)
+- **Email:** nishantghorpade77@gmail.com
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/nishant1723](https://linkedin.com/in/nishant1723)
-- 🐦 Twitter: [@Nishant1723](https://twitter.com/Nishant1723)
-
----
-_⭐️ Feel free to explore my repositories and contribute! Let's build something amazing together!_
+Thanks for visiting! 😊🚀
