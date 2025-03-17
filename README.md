@@ -41,14 +41,6 @@ Tech Stack: **React, Redux**
 Tech Stack: **HTML, CSS**
 - Developed a **Spotify clone** with an interactive UI and seamless playback controls.
 
-## 💼 Experience
-
-### CodSoft (December 2023 – January 2024)
-**Software Developer - Java Projects** | Pune, Maharashtra, India
-- Gained hands-on experience in **Java development** and **industry practices**.
-- Engaged in **community discussions** and **code reviews**.
-- Improved project reliability by solving complex issues.
-
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Nishant1723&theme=radical&hide_border=true)
