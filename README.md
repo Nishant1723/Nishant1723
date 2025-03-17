@@ -1,6 +1,6 @@
 # Hi there, I'm Nishant! 👋
 
-![Profile Banner](https://github.com/Nishant1723/Nishant1723/blob/main/banner.png)  
+![Profile Banner](github-header-image.png)  
 
 ## 🚀 About Me
 
