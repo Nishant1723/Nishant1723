@@ -43,6 +43,27 @@ Tech Stack: **HTML, CSS**
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/Nishant1723">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1723&theme=radical&border=7F3FBF&background=0D1117" alt="Nishant1723's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nishant1723">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishant1723&theme=radical" alt="Nishant1723's GitHub Contribution"/>
+  </a>
+</p>
+
+<a>
+  <a href="https://github.com/Nishant1723"><img alt="Nishant1723's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Nishant1723&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Nishant1723"><img alt="Nishant1723's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Nishant1723&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![Nishant1723's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishant1723&custom_title=Nishant1723's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Nishant1723&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1723&layout=compact&theme=radical)
