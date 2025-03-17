@@ -45,12 +45,6 @@ Tech Stack: **HTML, CSS**
 
 <p align="center">
   <a href="https://github.com/Nishant1723">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1723&theme=radical&border=7F3FBF&background=0D1117"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Nishant1723">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishant1723&theme=radical" alt="Nishant1723's GitHub Contribution"/>
   </a>
 </p>
