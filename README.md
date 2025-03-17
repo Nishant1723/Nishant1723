@@ -62,7 +62,7 @@ Tech Stack: **HTML, CSS**
 
 
 ## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/nishant-ghorpade-74a542244/](https://www.linkedin.com/in/nishant-ghorpade-74a542244/)
+- **LinkedIn:** [linkedin.com/in/nishant-ghorpade-74a542244/](https://www.linkedin.com/in/nishant-ghorpade/)
 - **GitHub:** [github.com/Nishant1723](https://github.com/Nishant1723)
 - **Email:** nishantghorpade77@gmail.com
 
